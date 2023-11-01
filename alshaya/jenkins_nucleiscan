@@ -1,0 +1,24 @@
+[[92mdns-saas-service-detection[0m:[1;92mcloudflare-cdn[0m] [[94mdns[0m] [[34minfo[0m] jenkins.alshaya.com [[96mjenkins.alshaya.com.cdn.cloudflare.net.[0m]
+[[92mcaa-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] jenkins.alshaya.com
+[[92mhttponly-cookie-detect[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com
+[[92mtech-detect[0m:[1;92mjenkins[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com
+[[92mtech-detect[0m:[1;92mcloudflare[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com
+[[92mjenkins-login[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com/login
+[[92mhttp-missing-security-headers[0m:[1;92mcross-origin-opener-policy[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com
+[[92mhttp-missing-security-headers[0m:[1;92mx-frame-options[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com
+[[92mhttp-missing-security-headers[0m:[1;92mcross-origin-embedder-policy[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com
+[[92mhttp-missing-security-headers[0m:[1;92mx-permitted-cross-domain-policies[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com
+[[92mhttp-missing-security-headers[0m:[1;92mreferrer-policy[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com
+[[92mhttp-missing-security-headers[0m:[1;92mclear-site-data[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com
+[[92mhttp-missing-security-headers[0m:[1;92mcross-origin-resource-policy[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com
+[[92mhttp-missing-security-headers[0m:[1;92mcontent-security-policy[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com
+[[92mhttp-missing-security-headers[0m:[1;92mpermissions-policy[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com
+[[92mrobots-txt-endpoint[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com/robots.txt
+[[92mmissing-sri[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com/ [[96mhttps://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317[0m]
+[[92mfavicon-detect[0m:[1;92mjenkins[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com/favicon.ico [[93mpath[0m=[93m"images/"[0m]
+[[92mjenkins-detect[0m:[1;92mversion[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com/whoAmI/ [[96m2.346.2[0m]
+[[92mwaf-detect[0m:[1;92mcloudflare[0m] [[94mhttp[0m] [[34minfo[0m] https://jenkins.alshaya.com/
+[[92mssl-issuer[0m] [[94mssl[0m] [[34minfo[0m] jenkins.alshaya.com:443 [[96mCloudflare, Inc.[0m]
+[[92mssl-dns-names[0m] [[94mssl[0m] [[34minfo[0m] jenkins.alshaya.com:443 [[96msni.cloudflaressl.com[0m,[96mjenkins.alshaya.com[0m]
+[[92mtls-version[0m] [[94mssl[0m] [[34minfo[0m] jenkins.alshaya.com:443 [[96mtls12[0m]
+[[92mtls-version[0m] [[94mssl[0m] [[34minfo[0m] jenkins.alshaya.com:443 [[96mtls13[0m]
